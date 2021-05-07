@@ -6,6 +6,7 @@ Implementation for Temporal Relational Reasoning in Videos. This is a NYU course
 
 ### Data preparation  
 
+For this implementation, we only test one dataset from Temporal Relational Reasoning in Videos: Jester. The link of the dataset is here:  [PDF](https://arxiv.org/pdf/1711.08496.pdf)
 
 ### Reference:
 B. Zhou, A. Andonian, and A. Torralba. Temporal Relational Reasoning in Videos. European Conference on Computer Vision (ECCV), 2018. [PDF](https://arxiv.org/pdf/1711.08496.pdf)
