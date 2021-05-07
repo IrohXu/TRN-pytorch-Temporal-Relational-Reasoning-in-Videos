@@ -17,4 +17,8 @@ B. Zhou, A. Andonian, and A. Torralba. Temporal Relational Reasoning in Videos. 
     year={2018}
 }
 ```  
+Part of the code is refer to below:  
+https://github.com/MRzzm/action-recognition-models-pytorch  
+https://github.com/zhoubolei/TRN-pytorch  
+
 
