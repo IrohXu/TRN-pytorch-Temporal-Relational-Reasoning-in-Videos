@@ -20,7 +20,7 @@ B. Zhou, A. Andonian, and A. Torralba. Temporal Relational Reasoning in Videos. 
     year={2018}
 }
 ```  
-B. Zhou, A. Andonian, and A. Torralba. Temporal Relational Reasoning in Videos. European Conference on Computer Vision (ECCV), 2018. [PDF](https://arxiv.org/pdf/1711.08496.pdf)
+Donahue, J., Anne Hendricks, L., Guadarrama, S., Rohrbach, M., Venugopalan, S., Saenko, K., & Darrell, T. Long-term recurrent convolutional networks for visual recognition and description. In Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR), 2015 [PDF](https://openaccess.thecvf.com/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf)
 ```
 @article{donahue2015long,
   title={Long-term recurrent convolutional networks for visual recognition and description},
