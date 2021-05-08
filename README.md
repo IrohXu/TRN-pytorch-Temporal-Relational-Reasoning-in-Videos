@@ -20,6 +20,16 @@ B. Zhou, A. Andonian, and A. Torralba. Temporal Relational Reasoning in Videos. 
     year={2018}
 }
 ```  
+B. Zhou, A. Andonian, and A. Torralba. Temporal Relational Reasoning in Videos. European Conference on Computer Vision (ECCV), 2018. [PDF](https://arxiv.org/pdf/1711.08496.pdf)
+```
+@article{donahue2015long,
+  title={Long-term recurrent convolutional networks for visual recognition and description},
+  author={Donahue, Jeffrey and Anne Hendricks, Lisa and Guadarrama, Sergio and Rohrbach, Marcus and Venugopalan, Subhashini and Saenko, Kate and Darrell, Trevor},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={2625--2634},
+  year={2015}
+}
+``` 
 Part of my code is refer to below:  
 https://github.com/MRzzm/action-recognition-models-pytorch  
 https://github.com/zhoubolei/TRN-pytorch  
