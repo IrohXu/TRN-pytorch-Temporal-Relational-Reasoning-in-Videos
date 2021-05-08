@@ -6,7 +6,7 @@ In this project, I will implement two models: (1) Long-term Recurrent Convolutio
 
 ### Data preparation  
 
-For this implementation, we only test one dataset from Temporal Relational Reasoning in Videos: Jester. The link of the dataset is here:  [Jester](https://20bn.com/datasets/jester) If you can not download the dataset due to web problems, I suggest you download it from kaggle. Here is the link: [kaggle-jester1](https://www.kaggle.com/zhaochengdu1998/jester1) [kaggle-jester2](https://www.kaggle.com/zhaochengdu1998/jester2)  
+For this implementation, I only test one dataset from Temporal Relational Reasoning in Videos: Jester. The link of the dataset is here:  [Jester](https://20bn.com/datasets/jester) If you can not download the dataset due to web problems, I suggest you download it from kaggle. Here is the link: [kaggle-jester1](https://www.kaggle.com/zhaochengdu1998/jester1) [kaggle-jester2](https://www.kaggle.com/zhaochengdu1998/jester2)  
 
 ### Training and Testing
 
