@@ -16,7 +16,7 @@ Result on mini-Jester dataset:
 ```
        Model       Validation Accuracy
 
-      Baseline           -
+      Baseline         0.3278
     2-Frame TRN        0.6398
     5-Frame TRN          -
        LRCN            0.7898
