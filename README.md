@@ -27,7 +27,7 @@ Result on mini-Jester dataset:
 
       Baseline         0.3278
     2-Frame TRN        0.4935
-    5-Frame TRN          -
+    5-Frame TRN        0.7231
        LRCN            0.7898
   MultiScale TRN       0.8194
 
