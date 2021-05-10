@@ -12,6 +12,15 @@ To simplify the experiment process, I use a subset of Jester as a mini version: 
 
 ### Training and Testing
 
+The environment for training and evaluation:  
+```
+python=3.6
+torch>=1.2
+numpy=1.7
+torchvision>=0.4.0
+matplotlib
+```
+
 Result on mini-Jester dataset:  
 ```
        Model       Validation Accuracy
