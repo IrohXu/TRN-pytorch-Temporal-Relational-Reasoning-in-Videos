@@ -12,6 +12,18 @@ To simplify the experiment process, I use a subset of Jester as a mini version: 
 
 ### Training and Testing
 
+Result on mini-Jester dataset:  
+```
+       Model       Validation Accuracy
+
+      Baseline           -
+    2-Frame TRN        0.6398
+    5-Frame TRN          -
+       LRCN            0.7898
+  MultiScale TRN       0.8194
+
+```
+
 ### Reference:
 B. Zhou, A. Andonian, and A. Torralba. Temporal Relational Reasoning in Videos. European Conference on Computer Vision (ECCV), 2018. [PDF](https://arxiv.org/pdf/1711.08496.pdf)
 ```
