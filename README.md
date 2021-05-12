@@ -21,10 +21,14 @@ torchvision>=0.4.0
 matplotlib
 ```
 
-Model:
+Train the model (please download the dataset first (Jester of mini-Jester):  
+```
+python train.py
+```
+
+
+Model:  
 Here is the BaiduYun Link: [Mymodel](https://pan.baidu.com/s/1b9tuJLX-ZhpU69q_K-WtLw)  Code: tq2k  
-
-
 
 Result on mini-Jester dataset:  
 ```
