@@ -1,6 +1,6 @@
 # TRN-pytorch-Temporal-Relational-Reasoning-in-Videos
 ### Introduction  
-Implementation for Temporal Relational Reasoning in Videos. This is a NYU course project for DS-GA 3001.004/.005 Introduction to Computer Vision (Spring 2021)  
+Implementation for Temporal Relational Reasoning in Videos (Temporal Relation Networks). This is a NYU course project for DS-GA 3001.004/.005 Introduction to Computer Vision (Spring 2021)  
 In this project, I will implement two models: (1) Long-term Recurrent Convolutional Networks for Visual Recognition and Description; (2) Temporal Relational Reasoning in Videos. The report will concentrate in discussing MIT CSAIL's creative work: Temporal Relational Reasoning in Videos.  
 
 
