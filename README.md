@@ -21,6 +21,21 @@ torchvision>=0.4.0
 matplotlib
 ```
 
+Training (please download the dataset first (Jester of mini-Jester):  
+```
+python train.py
+```
+
+Evaluation on any test video frames:  
+```
+python evaluation.py
+```
+  
+  
+
+Model:  
+Here is the BaiduYun Link: [Mymodel](https://pan.baidu.com/s/1b9tuJLX-ZhpU69q_K-WtLw)  Code: tq2k  
+
 Result on mini-Jester dataset:  
 ```
        Model       Validation Accuracy
