@@ -21,6 +21,11 @@ torchvision>=0.4.0
 matplotlib
 ```
 
+Model:
+Here is the BaiduYun Link: [Mymodel](https://pan.baidu.com/s/1b9tuJLX-ZhpU69q_K-WtLw)  Code: tq2k  
+
+
+
 Result on mini-Jester dataset:  
 ```
        Model       Validation Accuracy
