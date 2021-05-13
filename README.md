@@ -21,7 +21,7 @@ torchvision>=0.4.0
 matplotlib
 ```
 
-Training (please download the dataset first (Jester of mini-Jester):  
+Training (please download the dataset first ,Jester or mini-Jester):  
 ```
 python train.py
 ```
